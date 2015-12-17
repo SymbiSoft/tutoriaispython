@@ -1,0 +1,1 @@
+tutoriais sobre python para symbian
